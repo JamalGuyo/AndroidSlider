@@ -1,0 +1,4 @@
+#Tue Jan 16 09:10:50 EAT 2018
+base.0=/home/jamal/firebase/firebase/201Slider/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
